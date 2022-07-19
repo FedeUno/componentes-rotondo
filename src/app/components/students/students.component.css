@@ -1,0 +1,17 @@
+.conteiner{
+  padding: 2rem;
+  gap: 3rem;
+  display: flex;
+  flex-wrap: wrap;
+  position: absolute;
+  min-width: 20rem;
+
+}
+
+.card{
+  background-color: transparent; 
+  align-items: center;
+  display: flex;
+  position:relative;
+
+}
